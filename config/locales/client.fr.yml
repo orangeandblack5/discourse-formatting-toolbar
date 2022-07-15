@@ -19,3 +19,7 @@ fr:
       justify_ui_default_text: "Texte"
       size_ui_button_title: "Changer la taille du texte"
       size_ui_default_text: "Texte"
+      vote_ui_button_title: "Vote a player"
+      vote_ui_default_text: "Name"
+      unvote_ui_button_title: "Unvote"
+      unvote_ui_default_text: " "

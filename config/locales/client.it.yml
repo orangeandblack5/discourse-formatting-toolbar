@@ -17,3 +17,7 @@ it:
       right_ui_default_text: "Testo"
       justify_ui_button_title: "Giustifica il testo"
       justify_ui_default_text: "Testo"
+      vote_ui_button_title: "Vote a player"
+      vote_ui_default_text: "Name"
+      unvote_ui_button_title: "Unvote"
+      unvote_ui_default_text: " "
